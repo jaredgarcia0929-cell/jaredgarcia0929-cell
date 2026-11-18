@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**jaredgarcia0929-cell/jaredgarcia0929-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jared 👋
 
-Here are some ideas to get you started:
+I'm a neuroscience student at USC exploring how coding can connect with health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Python and GitHub
+- Arduino basics and sensor simulations
+
+## Projects and interests
+- **Pulse-sensor project:** Early exploration of simulated pulse data and signal processing.
+- **Interactive storytelling:** Exploring how player choices shape a story.
+- Interested in neuroscience, health technology, and game design.
+
+## Beyond coding
+I'm also learning Japanese, going on long runs, and playing with my dog KORAWII.
+
